@@ -20,3 +20,4 @@ Your frame URL will be `https://your-app-name.vercel.app/` or whatever platform 
 ___ 
 
 If you don't want to deploy your own, you can use my deployment at https://coin-flip-farcaster-frame.vercel.app/ as your frame URL and it should work just fine if you include it in your cast.
+
